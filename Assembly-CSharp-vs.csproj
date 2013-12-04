@@ -56,6 +56,7 @@
      <Compile Include="Assets\LitJson\ParserToken.cs" />
      <Compile Include="Assets\Ouya\SDK\Scripts\OuyaGameObject.cs" />
      <Compile Include="Assets\Scripts\AxisFollow.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\PlayerControl.cs" />
      <Compile Include="Assets\Scripts\PlayerPhysics.cs" />
      <Compile Include="Assets\StarterKit\Scripts\OuyaSceneGame.cs" />
